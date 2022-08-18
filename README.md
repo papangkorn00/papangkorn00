@@ -4,7 +4,6 @@
 
 ...
 
-Skills: JS
 
 
 
