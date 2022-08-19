@@ -1,15 +1,25 @@
-### Hi 👋, I'm Papangkorn
+# Hello👋I'm Papangkorn but you can call me Poom👋
 
-![you can call me POOM](https://user-images.githubusercontent.com/4733304/69106249-04e1cd80-0a2b-11ea-995c-f55f49291290.png)
 
-...
-
+ > __1st year__ ***IT28,KMUTT***
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/papangkorn00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='45'>](https://www.instagram.com/papaangkorn/)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papangkorn00)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="picture" width="300" src="https://user-images.githubusercontent.com/4733304/69106249-04e1cd80-0a2b-11ea-995c-f55f49291290.png"> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=papangkorn00&show_icons=true)  
+
+<p align="left">
+<a href="https://instagram.com/papaangkorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="papaangkorn" height="35" width="40" /></a> <a href="https://www.facebook.com/pmmpppppp" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" alt="Papangkorn Kijsakulrat" height="35" width="45" /></a> 
+</p> 
+
+
+
+
+
+
+<img alt="logo" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+
+
+
 
