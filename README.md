@@ -7,7 +7,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/papangkorn00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papaangkorn/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/papangkorn00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='45'>](https://www.instagram.com/papaangkorn/)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papangkorn00)](https://github.com/anuraghazra/github-readme-stats)
 
