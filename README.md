@@ -1,7 +1,7 @@
 # Hello👋I'm Papangkorn but you can call me Poom👋
 
 
- >  ***IT28,KMUTT***
+ > 1st year @***IT28,KMUTT***
 
 
 
