@@ -1,22 +1,20 @@
-## Hello👋I'm Papangkorn but you can call me Poom👋
+
+
+<h2 align="center">Hello 👋👋 I am Papangkorn </h2>
+<h3>Poom @IT KMUTT  </h3>
 
 
 
- > 1st year @***IT28,KMUTT***  
+<h3 align="left">Contact me:</h3>
 
-
-
-<img alt="picture" width="300" src="https://user-images.githubusercontent.com/4733304/69106249-04e1cd80-0a2b-11ea-995c-f55f49291290.png">
 
 <p align="left">
-<a href="https://instagram.com/papaangkorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="papaangkorn" height="35" width="40" /></a> <a href="https://www.facebook.com/pmmpppppp" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" alt="Papangkorn Kijsakulrat" height="35" width="40" /></a> 
-</p> 
+<a href="https://instagram.com/papaangkorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="papaangkorn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 
 
-
-<img alt="logo" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papangkorn00&show_icons=true&locale=en" alt="papangkorn00" /></p>
