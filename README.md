@@ -1,5 +1,5 @@
 
-<table align=center border=6px>
+<table align=center>
   <th>
     <img src="images/2.gif" height="460" weight="460">
   </th>
