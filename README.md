@@ -1,7 +1,7 @@
 
 <table align=center>
   <th>
-    <img src="images/2.gif" height="460" width="460">
+    <img src="images/2.gif" height="300" width="300">
   </th>
 </table>
   
