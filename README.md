@@ -19,7 +19,7 @@
    <a href="https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/">
     <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>  
-   <a href="[https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/](https://www.instagram.com/papaangkorn/)">
+   <a href="(https://www.instagram.com/papaangkorn/)">
     <img src="images/instagram.svg" alt="IG" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>
   <a>
