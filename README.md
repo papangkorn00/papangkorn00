@@ -4,36 +4,55 @@
     <img src="images/2.gif" height="300" width="300">
   </th>
 </table>
+
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=5002&pause=1000&color=9082F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B+I+am+Papangkorn%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>  
   
-<h2 align="center">Hello 👋👋 I am Papangkorn </h2>
 <h3>@IT KMUTT</h3>
+
 
 
 
 <h3 align="left"> Connect with me :</h3>
 <div id="badges">
    <a href="https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/">
-    <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
+    <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>  
    <a href="[https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/](https://www.instagram.com/papaangkorn/)">
-    <img src="images/instagram.svg" alt="IG" style="vertical-align:top margin:6px 4px">
+    <img src="images/instagram.svg" alt="IG" style="vertical-align:top margin:6px 4px" target="_blank">
+  </a>
+  <a>
+  <img src="https://dcbadge.vercel.app/api/shield/264438756302520331?theme=discord-inverted" />
+  </a>
+</div>
+
+
+<h3 align="left">Skills💻:</h3>
+<div>
+  <a href="#">
+    <img src="images/js.svg" alt="JS" style="vertical-align:top margin:6px 4px" target="_blank">
+  </a>  
+  <a href="#">
+    <img src="images/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" target="_blank">
+  </a>  
+  <a href="#">
+    <img src="images/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px" target="_blank">
+  </a>
+  <a href="#">
+    <img src="images/react.svg" alt="REACT" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>  
 </div>
 
 
 
-
-
-<h3 align="left">Skills💻:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
-
-
 <p> <img width="420"  height="400" alt="Github_Stats" src="https://raw.githubusercontent.com/papangkorn00/Template_Stats/1ab8b98f965718c335ba83a702e7b2d95fb0f249/github_stats.svg"</img></p>
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=papangkorn00&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
