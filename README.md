@@ -29,7 +29,8 @@
 
 
 <h3 align="left">Skills💻:</h3>
-<div>
+
+<!-- <div>
   <a href="#">
     <img src="images/js.svg" alt="JS" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>  
@@ -42,7 +43,7 @@
   <a href="#">
     <img src="images/react.svg" alt="REACT" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>  
-</div>
+</div> -->
 
 
 
