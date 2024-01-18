@@ -16,10 +16,10 @@
 
 <h3 align="left"> Connect with me :</h3>
 <div id="badges">
-   <a href="https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/">
+   <a href="https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/ target="_blank"">
     <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>  
-   <a href="https://www.instagram.com/papaangkorn/">
+   <a href="https://www.instagram.com/papaangkorn/" target="_blank">
     <img src="images/instagram.svg" alt="IG" style="vertical-align:top margin:6px 4px" target="_blank">
   </a>
   <a>
