@@ -25,26 +25,22 @@
   <a>
     <img src="https://dcbadge.vercel.app/api/shield/264438756302520331?theme=discord-inverted" />
   </a>
+
+
+  
 </div>
 
 
 
 <h3 align="left">Skills💻:</h3>
 
-<!-- <div>
-  <a href="#">
-    <img src="images/js.svg" alt="JS" style="vertical-align:top margin:6px 4px" target="_blank">
-  </a>  
-  <a href="#">
-    <img src="images/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" target="_blank">
-  </a>  
-  <a href="#">
-    <img src="images/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px" target="_blank">
-  </a>
-  <a href="#">
-    <img src="images/react.svg" alt="REACT" style="vertical-align:top margin:6px 4px" target="_blank">
-  </a>  
-</div> -->
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+
+</div>
 
 
 
