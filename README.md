@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/papangkorn-kijsakulrat-6239a7250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
-  <a href="https://www.instagram.com/papaangkorn/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://medium.com/@papangkorn.poomm" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a>
     <img src="https://dcbadge.vercel.app/api/shield/264438756302520331?theme=discord-inverted" />
